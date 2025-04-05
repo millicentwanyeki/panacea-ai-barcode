@@ -3,19 +3,19 @@
 
 Panacea is a healthcare innovation aimed at reducing medication errors during IV drug administration. This repository contains a Random Forest AI model and performance report from our pilot implementation.
 
-## 📌 Project Overview
+## Project Overview
 
 - **Problem:** Medication errors, especially with intravenous (IV) administration, are a leading cause of patient harm in hospitals.
 - **Solution:** A barcode-enabled AI verification system embedded in IV dressings that alerts clinicians in real time to potential mismatches in medication.
 - **Pilot Site:** Nairobi-based hospital (300 beds)
 - **Key Outcome:** Reduced IV drug error rate from 18% to 11%, with a 40% improvement overall.
 
-## 📂 Contents
+## Contents
 
 - `rf_model.pkl` - Trained Random Forest model
 - `classification_report.txt` - Performance report (Accuracy, Precision, Recall, F1 Score)
 
-## 🧠 Model Details
+## Model Details
 
 - **Algorithm:** Random Forest Classifier
 - **Use Case:** Predict likelihood of medication mismatch during IV administration
@@ -36,7 +36,7 @@ This model is trained on real pilot hospital data and will be integrated into Pa
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For inquiries, collaboration, or more details:  
 📧 hello@panacea.healthcare  
